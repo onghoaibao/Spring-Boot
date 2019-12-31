@@ -28,3 +28,15 @@
       </plugin>
    </plugins>
 </build>
+
+
+-------------------------------------------------------------------------------------------------------------
+Information for https://remotemysql.com/
+
+Username: yZrldicNrZ
+Database name: yZrldicNrZ
+Password: 6s1rfFKc4h
+Server: remotemysql.com
+Port: 3306
+rcmd
+
